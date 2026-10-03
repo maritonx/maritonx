@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm a Full-Stack Developer
+# 👋 Hi there! I'm a Senior Full-Stack Developer
 
 I am a **Products Developer** at **ClickNext Co., Ltd.**, where I build and scale key products including **smsmkt**, **emailmkt**, and **etaxwise**. 💻
 
@@ -37,3 +37,4 @@ I am also the creator and core maintainer of **easy-cms**, an open-source embedd
 ### 📫 Connect With Me
 - 🌐 **Project Website:** [maritonx.github.io/easy-cms](https://maritonx.github.io/easy-cms/)
 - 📧 **Email:** [scton54@gmail.com](mailto:scton54@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/kanawut-korsang-425a45440](https://linkedin.com/in/kanawut-korsang-425a45440)
