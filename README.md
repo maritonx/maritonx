@@ -19,10 +19,10 @@ I am also the creator and core maintainer of **easy-cms**, an open-source embedd
 
 ---
 
-### ⚙️ Tech Stack & Tools
+### ⚙️ My Tech Stack & Tools
 
-- **Languages & Frameworks:** TypeScript | JavaScript | Node.js | Next.js | Nuxt | React
-- **Databases:** PostgreSQL | SQLite | MongoDB
+- **Languages & Frameworks:** TypeScript | JavaScript | PHP | Node.js | Next.js | Nuxt | React | Laravel | AdonisJS | NestJS
+- **Databases:** PostgreSQL | SQLite | MongoDB | Elasticsearch | Redis | MariaDB
 - **DevOps & Ecosystem:** Git | GitHub Actions | Docker | CI/CD
 
 ---
