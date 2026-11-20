@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kanawut
+# 👋 Hi, I'm Kanawut K.
 
 A senior full-stack developer from Thailand 🇹🇭, and the creator and maintainer of
 **[Easy CMS](https://easycms.dev)**, an open-source project I build on nights and weekends.
