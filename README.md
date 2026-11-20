@@ -1,40 +1,43 @@
-# 👋 Hi there! I'm a Senior Full-Stack Developer
+# 👋 Hi, I'm Kanawut
 
-I am a **Products Developer** at **ClickNext Co., Ltd.**, where I build and scale key products including **smsmkt**, **emailmkt**, and **etaxwise**. 💻
-
-I am also the creator and core maintainer of **easy-cms**, an open-source embedded CMS solution built for modern web applications. 🚀
-
----
-
-### 🌟 Featured Open-Source Project
-
-#### 📦 [easy-cms](https://github.com/maritonx/easy-cms)
-**"Your CMS, inside your app"** — A TypeScript-first, embedded headless CMS that runs directly inside your Nuxt or Next.js application, so there is no separate CMS server to host and manage.
-
-- 🛠️ **Code-First Architecture:** Define your entire content model natively in TypeScript with full type-safety.
-- 💾 **Flexible Data Layer:** Zero-config migrations supporting SQLite for local development and PostgreSQL for production.
-- 🎨 **Full-Featured Admin:** Built-in rich text editor (Tiptap), media library, live previews, drafts, and version control.
-- 🌍 **Localization:** Ready out-of-the-box with dual Thai/English localization.
-- 🔌 **Extensible Plugin Ecosystem:** Plugins for SEO, dynamic Form Builders, URL Redirects, and an **MCP (Model Context Protocol)** bridge that lets AI assistants manage your content.
+A senior full-stack developer from Thailand 🇹🇭, and the creator and maintainer of
+**[Easy CMS](https://easycms.dev)**, an open-source project I build on nights and weekends.
 
 ---
 
-### ⚙️ My Tech Stack & Tools
+### 🌟 Easy CMS
 
-- **Languages & Frameworks:** TypeScript | JavaScript | PHP | Node.js | Next.js | Nuxt | React | Laravel | AdonisJS | NestJS
+**The code-first CMS and app backend for Nuxt and Next.js.**
+It runs inside your app: the content model is TypeScript in your repo, the admin and API come
+with it, and there is no extra server to run. MIT-licensed, stable since 1.0.
+
+**C**ode-first · **M**any systems, one app · **S**ecure
+
+- 🛠️ **Code-first:** collections, fields, access rules and hooks in TypeScript, with a typed
+  Local API and REST at `/api/cms`. SQLite or Postgres, migrations reviewed like code.
+- 🧩 **Many systems, one app:** an admin editors like (drafts, live preview, media, calendar, in
+  English and Thai), site members, jobs and realtime built in, and plugins for a shop, forms,
+  SEO, several sites in one CMS and AI assistants (MCP).
+- 🔒 **Secure:** secure defaults, self-reviewed against OWASP ASVS level 1, and an audit log signed
+  against tampering.
+
+[Website](https://easycms.dev) · [Docs](https://easycms.dev/docs) ·
+[เอกสารภาษาไทย](https://easycms.dev/th/docs) · [GitHub](https://github.com/maritonx/easy-cms) ·
+[Sponsor ❤](https://github.com/sponsors/maritonx)
+
+---
+
+### ⚙️ Tech stack
+
+- **Languages & frameworks:** TypeScript | JavaScript | PHP | Node.js | Next.js | Nuxt | React | Laravel | AdonisJS | NestJS
 - **Databases:** PostgreSQL | SQLite | MongoDB | Elasticsearch | Redis | MariaDB
-- **DevOps & Ecosystem:** Git | GitHub Actions | Docker | CI/CD
+- **DevOps:** Git | GitHub Actions | Docker | CI/CD
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📫 Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maritonx&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maritonx&layout=compact)
-
----
-
-### 📫 Connect With Me
-- 🌐 **Project Website:** [maritonx.github.io/easy-cms](https://maritonx.github.io/easy-cms/)
+- 🌐 **Easy CMS:** [easycms.dev](https://easycms.dev)
+- ❤️ **Sponsor:** [github.com/sponsors/maritonx](https://github.com/sponsors/maritonx)
 - 📧 **Email:** [scton54@gmail.com](mailto:scton54@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/kanawut-korsang-425a45440](https://linkedin.com/in/kanawut-korsang-425a45440)
