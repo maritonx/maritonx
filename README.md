@@ -95,15 +95,6 @@ backend that people and AI agents work in under the same rules.
 
 ---
 
-### 🇹🇭 ภาษาไทย
-
-สวัสดีครับ ผม Kanawut นักพัฒนา full-stack จากประเทศไทย ผู้สร้างและดูแล
-**[Easy CMS](https://easycms.dev/th/docs)**: CMS และ app backend แบบ code-first ที่อยู่ในแอป Nuxt หรือ
-Next.js ของคุณเลย ไม่ต้องมี server แยก มีทั้งเนื้อหา สมาชิก ร้านค้า และฟอร์ม และรองรับภาษาไทยตั้งแต่หน้า
-admin ไปจนถึงเอกสาร ถ้า Easy CMS ช่วยงานคุณได้ ฝาก ⭐ หรือ[สนับสนุน](https://github.com/sponsors/maritonx)ได้ครับ
-
----
-
 ### ⚙️ Tech stack
 
 - **Languages & frameworks:** TypeScript | JavaScript | PHP | Node.js | Next.js | Nuxt | React | Laravel | AdonisJS | NestJS
